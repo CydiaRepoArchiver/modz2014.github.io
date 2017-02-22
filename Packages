@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: modz2014
 Filename: debs/modz2014.github.ios-kern-utils_1.0_iphoneos-arm.deb
 Size: 66940
-MD5sum: e4496c1375f7b252ef9cd527ae81d837
-SHA1: b54bf1dd2f2bfb3bae9800da1fac4bafc4afe44f
-SHA256: a3d6beb35da7b8084a78346ada54e38350529a57b1755f90523e432a92630897
+MD5sum: 0ea1870a05747293e5425c592cbe37c4
+SHA1: b7cf7c43b232b3459046ec5c35cc6f2a2e7a768d
+SHA256: ad420e46cee7f081f76291e2b1e3b6cdd1b7a3ad4daede58c4de9936e7719bfd
 Section: Development
 Description: kdump
  Utilities for playing with the kernel. Requires tfp0 patch
