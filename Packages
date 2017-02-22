@@ -7,7 +7,7 @@ Size: 876
 MD5sum: 0edbc6438873c5e2e75c325128f97a41
 SHA1: 381bf6ae6fc38f38609f0a3022d6bcda7b80c0fc
 SHA256: 42e48f275479386ad7697ea048c12bec5278704fcd95ce02aae899c2d4faa969
-Section: Utilities
+Section: System
 Description: this is beta install and your own but remember to patch nvram incase thing go wrong to downgrade or restore back to ios 10.x
 Name: Substrate fix beta
 
@@ -38,4 +38,3 @@ Section: Development
 Description: kdump
  Utilities for playing with the kernel. Requires tfp0 patch
 Name: kern-utils
-
