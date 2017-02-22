@@ -3,10 +3,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: modz2014
 Filename: debs/modz2014.github.ios-ssh_1.0_iphoneos-arm.deb
-Size: 225382
-MD5sum: fa7fc1e911bb526f9ad6b229e4388213
-SHA1: dd5af1da6f531f22b2c4ad9140dda217e76b6d36
-SHA256: 5f1283e9eda9b215afa9c0c012cd905bdcbd616478094a5d9dcf63333b830ba8
+Size: 1104
+MD5sum: a30462910e7828ef83673e284258678c
+SHA1: 960c680df125a269fe103e9ad902e1b0a99b085d
+SHA256: f90daf0effc5b073dcf702cce19eefbf1dbb35be886772594d0104464856a006
 Section: Utilities
 Description: SSH FIX
  Fixes the ssh that Luca didn't fix
@@ -18,9 +18,9 @@ Architecture: iphoneos-arm
 Maintainer: modz2014
 Filename: debs/modz2014.github.ios-kern-utils_1.0_iphoneos-arm.deb
 Size: 66940
-MD5sum: 9b267195bfffbf9b1e67cd405940cbbe
-SHA1: 39dfafefe6dfc4fdfc10a3520cfd9b7489adc913
-SHA256: 4fb58e92dbaa6637551dd71ae6e4fd81d0158e9df1881b8deb77f43b5b3dbd79
+MD5sum: f4ecbc6d05de771e4bb88bb50da8b235
+SHA1: fe2b32da43b98baf1e7227eb878653c4269e6932
+SHA256: e6d213b2bb86979e56a76ec2d55c7f54a2260be8c2607bdd5c2d8ce14d38dcc8
 Section: Development
 Description: kdump
  Utilities for playing with the kernel. Requires tfp0 patch
