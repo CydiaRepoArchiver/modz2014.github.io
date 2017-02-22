@@ -1,0 +1,8 @@
+Package: com.modz2014.repo
+Name: Utilities
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Utilities
+Maintainer: modz2014
+Author: modz2014
+Section: Development Util
