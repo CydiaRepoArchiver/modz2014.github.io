@@ -1,0 +1,8 @@
+Version: 1.0
+Package: modz2014.github.ios-SSH
+Maintainer: modz2014
+Name: SSH Fix
+Architecture: iphoneos-arm
+Description: SSH FIX
+ Fixes the ssh that Luca didn't fix
+Section: Development
