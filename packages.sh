@@ -1,2 +1,2 @@
 #!/bin/bash
-dpkg-deb -bzip2  projects/Utilities debs
+dpkg-deb -b  projects/Utilities debs
