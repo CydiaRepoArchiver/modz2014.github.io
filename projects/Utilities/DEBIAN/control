@@ -3,5 +3,5 @@ Package: modz2014.github.ios-kern-utils
 Name: kern-utils
 Architecture: iphoneos-arm
 Description: kdump
- Utilities for playing with the kernel. Requires tfp0 patch.<br>
+ Utilities for playing with the kernel. Requires tfp0 patch
 Section: Development
