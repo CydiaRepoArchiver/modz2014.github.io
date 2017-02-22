@@ -1,8 +1,7 @@
-Package: com.modz2014.Utilities
-Name: Utilities
 Version: 1.0
+Package: modz2014.github.ios-kern-utils
+Name: kern-utils
 Architecture: iphoneos-arm
-Description: Utilities
-Maintainer: modz2014
-Author: modz2014
+Description: kdump
+ Utilities for playing with the kernel. Requires tfp0 patch.<br>
 Section: Development
