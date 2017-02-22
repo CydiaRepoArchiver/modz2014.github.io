@@ -1,4 +1,0 @@
-Filter = {
-    Executables = ("lsd", "installd");
-    Mode = "Any";
-};
