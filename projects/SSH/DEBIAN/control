@@ -5,4 +5,4 @@ Name: SSH Fix
 Architecture: iphoneos-arm
 Description: SSH FIX
  Fixes the ssh that Luca didn't fix
-Section: Development
+Section: Utilities
