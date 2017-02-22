@@ -1,12 +1,25 @@
+Package: modz2014.github.ios-MobileSubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: modz2014
+Filename: debs/modz2014.github.ios-mobilesubstrate_1.0_iphoneos-arm.deb
+Size: 876
+MD5sum: 0edbc6438873c5e2e75c325128f97a41
+SHA1: 381bf6ae6fc38f38609f0a3022d6bcda7b80c0fc
+SHA256: 42e48f275479386ad7697ea048c12bec5278704fcd95ce02aae899c2d4faa969
+Section: Utilities
+Description: this is beta install and your own but remember to patch nvram incase thing go wrong to downgrade or restore back to ios 10.x
+Name: Substrate fix beta
+
 Package: modz2014.github.ios-SSH
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: modz2014
 Filename: debs/modz2014.github.ios-ssh_1.0_iphoneos-arm.deb
 Size: 225124
-MD5sum: 018bb609ebf8f338cc0658b03eee1135
-SHA1: ceb0f35d1fb7f7d3622d26cc735a0cc3856167a0
-SHA256: ceee10496bb1349bc99b8b033a889885dfe2ecf4b98c763bae5251580f9b1932
+MD5sum: a52982cb83af9e102fb9bdd391d3c427
+SHA1: 16d4950d765a656b2fe7a9f786f1116eaebd60cd
+SHA256: 150ea0f75f51e00ca1c30fd54c4904d98de22adc7af68a5eaf588090a0adffce
 Section: Utilities
 Description: SSH FIX
  Fixes the ssh that Luca didn't fix
@@ -18,9 +31,9 @@ Architecture: iphoneos-arm
 Maintainer: modz2014
 Filename: debs/modz2014.github.ios-kern-utils_1.0_iphoneos-arm.deb
 Size: 66940
-MD5sum: 3e727fb03b1401656c3b2995fd9992a3
-SHA1: b381e55ab64923ea32e522983ecc0274dc3367cd
-SHA256: 2e46d77a895d3521c83fea6d0d7e795e29d1df513d291ab3d23de9bdf7acc21b
+MD5sum: 351e14c815aa317c7b4cae5adc79c391
+SHA1: f292efa564c8d58cadadbd63885e6e0aa845518b
+SHA256: c9b2f6980017d32983bddb58b63348103172b0e6f0cc49cf66b8f452f7e9d657
 Section: Development
 Description: kdump
  Utilities for playing with the kernel. Requires tfp0 patch

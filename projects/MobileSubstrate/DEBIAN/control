@@ -1,0 +1,7 @@
+Version: 1.0
+Package: modz2014.github.ios-MobileSubstrate
+Maintainer: modz2014
+Name: Substrate fix beta
+Architecture: iphoneos-arm
+Description: this is beta install and your own but remember to patch nvram incase thing go wrong to downgrade or restore back to ios 10.x
+Section: Utilities
